@@ -2,6 +2,10 @@
 
 ## Overview
 
+**IMOPRTANT:** This is a project I was working on when I was trying to be up to date with relevant ads. It ended up as a proof-of-concept project for educational purposes only.
+
+Always be aware of the web scraping regulations and limitations! 
+
 **NOTE:** I refer to the application running on host machine as a server application, while the application running on Rasperry Pi Pico W as a client application. 
 
 This project implements a web scraper client running on a Raspberry Pi Pico W and a web scraper server running on Linux host machine. 
